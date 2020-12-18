@@ -4,3 +4,5 @@ exercice 4
 modifié sur github
 
 modifié dans la branche
+
+modifié dans la nouvelle branche avec la commande 
